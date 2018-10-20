@@ -36,10 +36,10 @@ adskfjlkasdjflkdsjaklfjldksjfklsdajfkldsjafkjasdklfjads
 
 ### Autores
 
-Fernanda Rodrigues Costa
-Gabriel Saraiva Mendes
-Marvin de Oliveira Pires
-Guilheme dos Santos do Amaral
+Fernanda Rodrigues Costa  
+Gabriel Saraiva Mendes  
+Marvin de Oliveira Pires  
+Guilheme dos Santos do Amaral  
 
 
 ### Licensa
