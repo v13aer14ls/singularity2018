@@ -23,7 +23,8 @@ O objetivo principal é reviver missões de alta relevância no histórico de ex
 ```
 1. Microsoft Windows 10
 2. Construct2
-3. Lágrimas
+3. GIMP
+4. Programa de Som 
 ```
 **Construct2**  é uma plataforma de desenvolvimento de jogos em **HTML5** que pode ser baixada [aqui](https://www.scirra.com/construct2/releases/r265/download).
 
