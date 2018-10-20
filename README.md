@@ -46,4 +46,4 @@ Guilheme dos Santos do Amaral
 
 MIT License Copyright (c) 2018
 
-Acesse o arquivo [LICENSE](https://github.com/v13aer14ls/singularity2018/blob/master/LICENSE)
+Acesse o arquivo [LICENSE](https://github.com/v13aer14ls/singularity2018/blob/master/LICENSE) para uma vizualização completa.
