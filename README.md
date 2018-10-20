@@ -2,8 +2,8 @@
 
 ## O que é o projeto Urania
 
-Urânia é um jogo educativo e formato point and click em que suas escolhas frete a divérsos desafios inflenciam sua trajetória.
-Seu objetivo é reviver missões de açta relevância no histórico de exploração espacial da NASA e na medida em que você compçeta os desafios descobri-rá para qual carreira voce tem mais aptiddão no mercado de trabalho da expleração espacial.
+Urânia é um jogo educativo e formato point and click em que suas escolhas frente a diversos desafios influenciam sua trajetória.
+Seu objetivo é reviver missões de alta relevância no histórico de exploração espacial da NASA e na medida em que você completa os desafios descobri-rá para qual carreira voce tem mais aptidão no mercado de trabalho da exploração espacial.
 
 
 ### Requisitos:
