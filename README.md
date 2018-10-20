@@ -2,7 +2,7 @@
 
 ## O que é o projeto Urania
 
-###URÂNIA
+### URÂNIA
 
 Urânia era, na mitologia grega, a musa da Astronomia, matemática, lembranças, surrealismo e da Astrologia. Inspirados pela lenda desta Musa e pelas imagens estonteantes do telescópio Hubble, fornecidas para este desafio, buscamos aproximar jovens e crianças da historia da exploração espacial internacional, bem como ajudar aqueles que querem encontrar na ciência um modo de vida a perceberem que o contato com a ciência é magico, grandioso, encantador e acima de tudo possível, especialmente para minorias historicamente excluídas das sociedades acadêmica e cientifica.
 
