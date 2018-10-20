@@ -32,7 +32,7 @@ O objetivo principal é reviver missões de alta relevância no histórico de ex
 
 Através de uma cadeia logica de eventos o jogo captura as decisões do usuário e traça um perfil profissional do jogador e ao final do jogo define uma das seguintes carreiras profissionais da NASA:
 
-![alt text](https://github.com/v13aer14ls/singularity2018/blob/master/fluxo.jpeg "Fluxograma")
+![alt text](https://github.com/v13aer14ls/singularity2018/blob/master/fluxo.jpg "Fluxograma")
 
 
 ### Autores
