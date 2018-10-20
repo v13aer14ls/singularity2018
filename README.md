@@ -13,7 +13,7 @@ Além disso, o detalhamento histórico contido no processo de pesquisa do jogo, 
 
 ### APRESENTAÇÃO
 ---
-Urânia é um jogo educativo e formato point & click em que suas escolhas frente a diversos desafios influenciam sua trajetória de jogo.
+Urânia é um jogo educativo inteiramente gratis e formato point & click em que suas escolhas frente a diversos desafios influenciam sua trajetória de jogo.
 
 O objetivo principal é reviver missões de alta relevância no histórico de exploração espacial da NASA e na medida em que o usuário completa os desafios descobrirá para qual carreira tem mais aptidão no área de desenvolvimento da exploração espacial.
 
@@ -24,13 +24,17 @@ O objetivo principal é reviver missões de alta relevância no histórico de ex
 1. Microsoft Windows 10
 2. Construct2
 3. GIMP
-4. Programa de Som
+4. Audacity
 ```
-**Construct2**  é uma plataforma de desenvolvimento de jogos em **HTML5** que pode ser baixada [aqui](https://www.scirra.com/construct2/releases/r265/download).
+**Construct2** é uma plataforma de desenvolvimento de jogos em **HTML5** que pode ser baixada [aqui](https://www.scirra.com/construct2/releases/r265/download).
+
+**GIMP** é uma ferramenta de software livre multi-platoforma de edição de imagem.
+
+**Audacity** é uma ferramenta de software livre multi-plataforma de edição e reprodução de audio.
 
 ### Cadeia de eventos e decisões:
 
-Através de uma cadeia logica de eventos o jogo captura as decisões do usuário e traça um perfil profissional do jogador , ao final do jogo define uma entre quatro tradicionais carreiras dentro da NASA e encaminha o jogador para uma missão personalisada !
+Através de uma cadeia logica de eventos o jogo captura as decisões do usuário e traça um perfil profissional do jogador , ao final do jogo define uma entre quatro tradicionais carreiras dentro da NASA e encaminha o jogador para uma missão personalizada !
 
 ![alt text](https://github.com/v13aer14ls/singularity2018/blob/master/fluxo.jpg "Fluxograma")
 
@@ -41,6 +45,9 @@ Fernanda Rodrigues Costa
 Gabriel Saraiva Mendes  
 Marvin de Oliveira Pires  
 Guilheme dos Santos do Amaral  
+
+### Milestones
+
 
 
 
