@@ -42,8 +42,6 @@ Marvin de Oliveira Pires
 Guilheme dos Santos do Amaral  
 
 
-###### Licensa
 
 ###### MIT License Copyright (c) 2018
-
 ###### Acesse o arquivo [LICENSE](https://github.com/v13aer14ls/singularity2018/blob/master/LICENSE) para uma vizualização completa.
