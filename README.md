@@ -8,7 +8,8 @@ Seu objetivo é reviver missões de alta relevância no histórico de exploraç�
 
 ### Requisitos:
 
-1. Instalação da plataforma de desenvolvimento open-source **Construct2** que pode ser baixada [aqui](https://www.scirra.com/construct2/releases/r265/download)
+1. Microsoft Windows
+2. Instalação da plataforma de desenvolvimento open-source **Construct2** que pode ser baixada [aqui](https://www.scirra.com/construct2/releases/r265/download).
 
 
 ### Cadeia de eventos e decisões:
