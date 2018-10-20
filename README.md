@@ -2,8 +2,8 @@
 
 ## O que é o projeto Urania
 
-blablabla bla bla blabla bla. blal balblabla blablabla bla bla blabla bla. blal balblabla blablabla bla bla blabla bla. blal balblabla blablabla bla bla blabla bla. blal balblabla blablabla bla bla blabla bla. blal balblabla blablabla bla bla blabla bla. blal balblabla blablabla bla bla blabla bla. blal balblabla blablabla bla bla blabla bla. blal balblabla blablabla bla bla blabla bla. blal balblabla blablabla bla bla blabla bla. blal balblabla blablabla bla bla blabla bla. blal balblabla
-blablabla bla bla blabla bla. blal balblabla blablabla bla bla blabla bla. blal balblabla blablabla bla bla blabla bla. blal balblabla blablabla bla bla blabla bla. blal balblabla blablabla bla bla blabla bla. blal balblabla blablabla bla bla blabla bla. blal balblabla blablabla bla bla blabla bla. blal balblabla blablabla bla bla blabla bla. blal balblabla blablabla bla bla blabla bla. blal balblabla 
+Urânia é um jogo educativo e formato point and click em que suas escolhas frete a divérsos desafios inflenciam sua trajetória.
+Seu objetivo é reviver missões de açta relevância no histórico de exploração espacial da NASA e na medida em que você compçeta os desafios descobri-rá para qual carreira voce tem mais aptiddão no mercado de trabalho da expleração espacial.
 
 
 ### Requisitos:
