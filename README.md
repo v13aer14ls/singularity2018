@@ -17,10 +17,11 @@ Urânia é um jogo educativo e formato point & click em que suas escolhas frente
 
 O objetivo principal é reviver missões de alta relevância no histórico de exploração espacial da NASA e na medida em que o usuário completa os desafios descobrirá para qual carreira tem mais aptidão no área de desenvolvimento da exploração espacial.
 
-### Requisitos:
-
+### Para começar a desenvolver no projeto URANIA
+---
+```
 1. Microsoft Windows (7,8 e 10)
-2. Instalação da plataforma de desenvolvimento open-source **Construct2** que pode ser baixada [aqui](https://www.scirra.com/construct2/releases/r265/download).
+2. Instalação da plataforma de desenvolvimento open-source **Construct2** que pode ser baixada [aqui](https://www.scirra.com/construct2/releases/r265/download).```
 
 
 ### Cadeia de eventos e decisões:
