@@ -28,3 +28,22 @@ O objetivo principal é reviver missões de alta relevância no histórico de ex
 ![alt text](https://github.com/v13aer14ls/singularity2018/blob/master/394f69c2-ad0e-483a-b060-6a47284cedf3.jpeg "Fluxograma")
 
 ### Objetivo:
+
+Balla lasld la balsbdl aks dljalkdj  kjbla blaasd ad
+asdkfdsafkjdsalkjflakdsjlkfjl asdkfdsafkjdsalkjflakdsjlkfjl
+adskfjlkasdjflkdsjaklfjldksjfklsdajfkldsjafkjasdklfjads
+
+
+### Autores
+
+Fernanda Rodrigues Costa
+Gabriel Saraiva Mendes
+Marvin de Oliveira Pires
+Guilheme dos Santos do Amaral
+
+
+### Licensa
+
+MIT License Copyright (c) 2018
+
+Acesse o arquivo [LICENSE](https://github.com/v13aer14ls/singularity2018/blob/master/LICENSE)
