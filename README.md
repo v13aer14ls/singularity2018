@@ -24,7 +24,7 @@ O objetivo principal é reviver missões de alta relevância no histórico de ex
 1. Microsoft Windows 10
 2. Construct2
 3. GIMP
-4. Programa de Som 
+4. Programa de Som
 ```
 **Construct2**  é uma plataforma de desenvolvimento de jogos em **HTML5** que pode ser baixada [aqui](https://www.scirra.com/construct2/releases/r265/download).
 
@@ -32,13 +32,7 @@ O objetivo principal é reviver missões de alta relevância no histórico de ex
 
 Através de uma cadeia logica de eventos o jogo captura as decisões do usuário e traça um perfil profissional do jogador e ao final do jogo define uma das seguintes carreiras profissionais da NASA:
 
-![alt text](https://github.com/v13aer14ls/singularity2018/blob/master/394f69c2-ad0e-483a-b060-6a47284cedf3.jpeg "Fluxograma")
-
-### Objetivo:
-
-Balla lasld la balsbdl aks dljalkdj  kjbla blaasd ad
-asdkfdsafkjdsalkjflakdsjlkfjl asdkfdsafkjdsalkjflakdsjlkfjl
-adskfjlkasdjflkdsjaklfjldksjfklsdajfkldsjafkjasdklfjads
+![alt text](https://github.com/v13aer14ls/singularity2018/blob/master/fluxo.jpeg "Fluxograma")
 
 
 ### Autores
