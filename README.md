@@ -23,7 +23,7 @@ O objetivo principal é reviver missões de alta relevância no histórico de ex
 1. Microsoft Windows (7,8 e 10)
 2. Construct2
 ```
-**Construct2**  é uma plataforma de desenvolvimento de jogos em **HTML5** [aqui](https://www.scirra.com/construct2/releases/r265/download).
+**Construct2**  é uma plataforma de desenvolvimento de jogos em **HTML5** que pode ser baixada [aqui](https://www.scirra.com/construct2/releases/r265/download).
 
 ### Cadeia de eventos e decisões:
 
