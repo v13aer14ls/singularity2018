@@ -4,22 +4,12 @@
 
 ### URÂNIA
 ----
-Urania was, in Greek mythology, the muse of Astronomy, mathematics, memorys,
-surrealism and Astrology. Inspired by the legend of this Muse and the stunning images
-of the Hubble telescope provided for this challenge, we seek to bring young people
-and children closer to the history of international space exploration, as well as to help
-those who want to find a way of life in science to realize that contact with science is
-magical, grandiose, charming and above all, possible, including for minorities
-historically excluded from academic and scientific societies.
-Through brief works and interactive mini-games that tell the story of American space
-exploration, the aim is to make the young audience believe in their own talent and
-dedication and understand that history is only done when you do not give up on the
-first difficulties.
-In addition, the historical detail contained in the game research process, coupled with
-the Hubble telescope images present throughout the game, do the job of showing
-alternative realities and awakening creativity, which is a way to include socially and
-awaken for new alternatives of life, as scientific dissemination, anywhere in the world,
-changes the future of education and science across the globe.
+Urânia era, na mitologia grega, a musa da Astronomia, matemática, lembranças, surrealismo e da Astrologia. Inspirados pela lenda desta Musa e pelas imagens estonteantes do telescópio Hubble, fornecidas para este desafio, buscamos aproximar jovens e crianças da historia da exploração espacial internacional, bem como ajudar aqueles que querem encontrar na ciência um modo de vida a perceberem que o contato com a ciência é magico, grandioso, encantador e acima de tudo possível, especialmente para minorias historicamente excluídas das sociedades acadêmica e cientifica.
+
+Através de breves fases e minijogos interativos que narram a historia da exploração espacial estadunidense, busca-se fazer com que o público infanto-juvenil acredite em seu próprio talento e dedicação e compreendam que a historia só se faz quando não se desiste nas primeiras dificuldades.
+
+Além disso, o detalhamento histórico contido no processo de pesquisa do jogo, aliado as imagens do telescópio Hubble, presentes em todo o jogo, fazem o trabalho de mostrar realidades alternativas e despertar a criatividade,  o que  é uma forma de incluir socialmente e de despertar para novas alternativas de vida, pois a divulgação  científica, em qualquer lugar do mundo, muda o futuro da educação e da ciência em todo o globo.
+
 
 ### APRESENTAÇÃO
 ---
