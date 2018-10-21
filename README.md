@@ -1,7 +1,5 @@
 # PROJETO URANIA
 
-## O que é o projeto Urania
-
 ### URÂNIA
 ----
 Urania was, in Greek mythology, the muse of Astronomy, mathematics, memorys,
@@ -34,35 +32,49 @@ plans of the Mercury project.
 Successful in testing the conditions of astronauts and equipment, this project prepared
 the technology that would be used in the Gemini and Apollo spacecraft.
 
-### Ferramentas utilizadas para o desenvolvimento do projeto URANIA
+### Tools used for development
 ---
 
 ```
 1. Microsoft Windows 10
 2. Construct2
 3. GIMP
-4. Audacity
+4. Hubble Telescope Imagens
+
 ```
-**Construct2** é uma plataforma de desenvolvimento de jogos em **HTML5** que pode ser baixada [aqui](https://www.scirra.com/construct2/releases/r265/download).
+** Construct2 ** is a game development platform in ** HTML5 ** that can be downloaded [https://www.scirra.com/construct2/releases/r265/download].
 
-**GIMP** é uma ferramenta de software livre multi-platoforma de edição de imagem.
+** GIMP ** is a free multi-format image editing tool.
 
-**Audacity** é uma ferramenta de software livre multi-plataforma de edição e reprodução de audio.
+** Audacity ** is a multi-platform free software tool for audio editing and playback.
 
-### Cadeia de eventos e decisões:
+### JUSTIFICATION
 
+In Brazil, not only the question of space exploration does little dialogue with society, but the
+entire scientific and academic universe is very distant from the reality lived by a large part of
+the population.  
+According to data from the last official census, only 7.9% of the population has University
+degree, a universe in which a much smaller portion holds diplomas in areas of exact sciences
+such as Mathematics, Physics and Aerospace and Electrical Engineering, courses most sought
+after by professionals who seek opportunities in the space exploration sector.  
+Moreover, in Brazil today, these courses do not even rank among the ten most sought by
+students.  
+It is also noted that this exclusionary reality stems from the common perception that space
+exploration is an exclusive activity reserved for an elite of individuals, which makes it distant
+even for the most curious young people.  
+Thus, one of the main challenges is to make this knowledge more palpable and innovative,
+and this is what this present project proposes.  
 
-![alt text](https://github.com/v13aer14ls/singularity2018/blob/master/fluxo.jpg "Fluxograma")
-
-
-### Autores
+### Autors
 
 Fernanda Rodrigues Costa  
 Gabriel Saraiva Mendes  
 Marvin de Oliveira Pires  
 Guilheme dos Santos do Amaral  
 
+### Event Chain
+![alt text](https://github.com/v13aer14ls/singularity2018/blob/master/fluxo.jpg "Fluxograma")
 
 
 ###### MIT License Copyright (c) 2018
-###### Acesse o arquivo [LICENSE](https://github.com/v13aer14ls/singularity2018/blob/master/LICENSE) para uma vizualização completa.
+###### Acess the file [LICENSE](https://github.com/v13aer14ls/singularity2018/blob/master/LICENSE) for a full visualization.
