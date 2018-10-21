@@ -10,11 +10,11 @@ of the Hubble telescope provided for this challenge, we seek to bring young peop
 and children closer to the history of international space exploration, as well as to help
 those who want to find a way of life in science to realize that contact with science is
 magical, grandiose, charming and above all, possible, including for minorities
-historically excluded from academic and scientific societies.
+historically excluded from academic and scientific societies.  
 Through brief works and interactive mini-games that tell the story of American space
 exploration, the aim is to make the young audience believe in their own talent and
 dedication and understand that history is only done when you do not give up on the
-first difficulties.
+first difficulties.  
 In addition, the historical detail contained in the game research process, coupled with
 the Hubble telescope images present throughout the game, do the job of showing
 alternative realities and awakening creativity, which is a way to include socially and
@@ -23,9 +23,16 @@ changes the future of education and science across the globe.
 
 ### APRESENTAÇÃO
 ---
-Urânia é um jogo educativo inteiramente gratis e formato point & click em que suas escolhas frente a diversos desafios influenciam sua trajetória de jogo.
-
-O objetivo principal é reviver missões de alta relevância no histórico de exploração espacial da NASA e na medida em que o usuário completa os desafios descobrirá para qual carreira tem mais aptidão no área de desenvolvimento da exploração espacial.
+Urania is an educational point-and-click game where the main goal is to revive high
+relevance missions in NASA's space exploration history.  
+The main historical point portrayed in the Demo version is the Mercury Project - 1958
+to 1963, which was NASA's first manned space exploration project. It aimed at the
+long and medium term to prepare the technology that would take man to the moon.  
+Another important point that appears in this project is the famous Kennedy speech
+that challenged America to land on the Moon before the late 1970s changed the initial
+plans of the Mercury project.  
+Successful in testing the conditions of astronauts and equipment, this project prepared
+the technology that would be used in the Gemini and Apollo spacecraft.
 
 ### Ferramentas utilizadas para o desenvolvimento do projeto URANIA
 ---
