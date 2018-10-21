@@ -19,7 +19,7 @@ alternative realities and awakening creativity, which is a way to include social
 awaken for new alternatives of life, as scientific dissemination, anywhere in the world,
 changes the future of education and science across the globe.
 
-### APRESENTAÇÃO
+### PRESENTATION
 ---
 Urania is an educational point-and-click game where the main goal is to revive high
 relevance missions in NASA's space exploration history.  
